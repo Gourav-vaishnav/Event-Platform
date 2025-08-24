@@ -1,0 +1,5 @@
+{
+  "name": "Event Platform",
+  "description": "A modern, client-side platform to create events, manage invitations, and track RSVPs. Organizers can view a dashboard with real-time attendance statistics and a visual breakdown of responses.",
+  "requestFramePermissions": []
+}
