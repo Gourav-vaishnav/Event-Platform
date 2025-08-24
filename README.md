@@ -5,7 +5,7 @@ Whether you’re organizing a concert, workshop, or community meetup, this platf
 
 ---
 
-## ✨ What is Event Platform?  
+## ✨ What is Event Platform? 
 
 Event Platform is a **web-based application** that helps:  
 - 👩‍💼 **Organizers** → Create, publish, and manage events with ease.  
@@ -86,8 +86,6 @@ If you’d like to improve this project:
 
 ---
 
-⭐ If you like this project, don’t forget to **star the repo** – it motivates us to build more amazing tools!  
+⭐ If you like this project, don’t forget to **star the repo** – it motivates us to build more amazing tools!!! 
 
 ---
-
-Would you like me to also design a **colorful banner-style title (ASCII/emoji-based heading)** for the README so it looks even more eye-catching at the very top?
